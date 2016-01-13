@@ -1,6 +1,8 @@
 # Text Message Server
 This small python server creates an endpoint at `yourserver.com:8088/index`
 
+This server was put in use during a [lockdown](http://krqe.com/2015/12/11/albuquerque-police-city-hall-on-lock-down/) at the City of Albuquerque. The front end queried a database of phone numbers for Municipal Development and sent the supplied message to everyone.  
+
 ### Parameters
 
 | Param | Value |
